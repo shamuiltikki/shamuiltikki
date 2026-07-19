@@ -72,9 +72,9 @@
 
 # 🌐 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: your-shamuiltikki@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourusername
+💼 LinkedIn: https://linkedin.com/in/shamuiltikki
 
 🌍 Portfolio: Coming Soon
 
