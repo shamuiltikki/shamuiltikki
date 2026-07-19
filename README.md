@@ -1,78 +1,89 @@
-<h1 align="center">Hi 👋, I'm Shamuil Tikki</h1>
+<div align="center">
 
-<h3 align="center">Frontend Developer • Web Designer • Open Source Learner</h3>
+<img src="images/profile.jpg" width="170" alt="Shamuil Tikki"/>
+
+# Hi 👋, I'm Shamuil Tikki
+
+### 💻 Frontend Developer | UI Enthusiast | Building Modern Digital Experiences
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Digital+Experiences;Creating+Responsive+Websites;Always+Exploring+New+Technologies"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=shamuiltikki&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+✨ Passionate about designing and developing modern, responsive, and user-friendly websites.
+
+💡 Focused on creating clean UI, seamless user experiences, and high-performance web applications.
+
+🚀 Dedicated to continuous learning and building impactful digital solutions.
+
+⚡ I enjoy transforming ideas into beautiful, functional, and scalable websites.
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-Building modern, responsive and user-friendly websites with clean code and creative design.
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,wordpress"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🌐 Personal Portfolio Website
+
+💍 Jewellery Shop Website
+
+🛒 E-commerce Website
+
+🏢 Business Landing Pages
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shamuiltikki&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamuiltikki&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Designer;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!"/>
+<img src="https://streak-stats.demolab.com?user=shamuiltikki&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Passionate about Web Development
-- 🚀 Love creating responsive websites
-- 📚 Always learning new technologies
-- 🎯 Goal: Become a Full Stack Developer
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,wordpress,figma"/>
-
-</p>
-
----
-
-## 📂 Featured Projects
-
-🚀 **Personal Portfolio Website**
-
-💍 **Jewellery Shop Website**
-
-🛍️ **E-commerce Website**
-
-🌐 **Business Landing Pages**
-
----
-
-## 📊 GitHub Stats
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shamuiltikki&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamuiltikki&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shamuiltikki&theme=tokyonight"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=shamuiltikki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shamuiltikki
-- 🌍 Portfolio: *Coming Soon*
-- 📧 Email: shamuiltikki@gmail.com
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/yourusername
+
+🌍 Portfolio: Coming Soon
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-*"Code • Learn • Build • Repeat"* 🚀
+*"Crafting clean code, modern interfaces, and meaningful digital experiences."*
 
-</p>
+</div>
