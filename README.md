@@ -1,44 +1,44 @@
 <div align="center">
 
-<img src="images/profile.jpg" width="170" alt="Shamuil Tikki"/>
+<img src="./profile.jpg" width="180" alt="Shamuil Tikki"/>
 
-# Hi 👋, I'm Shamuil Tikki
+# 👋 Hi, I'm Shamuil Tikki
 
 ### 💻 Frontend Developer | UI Enthusiast | Building Modern Digital Experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Digital+Experiences;Creating+Responsive+Websites;Always+Exploring+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Digital+Experiences;Creating+Responsive+Websites;Clean+Code+%7C+Modern+UI+%7C+Creative+Solutions" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=shamuiltikki&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+![](https://komarev.com/ghpvc/?username=shamuiltikki&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-✨ Passionate about designing and developing modern, responsive, and user-friendly websites.
+✨ Passionate about crafting modern, responsive and user-centric web experiences.
 
-💡 Focused on creating clean UI, seamless user experiences, and high-performance web applications.
+💡 I enjoy transforming ideas into beautiful, functional and scalable websites.
 
-🚀 Dedicated to continuous learning and building impactful digital solutions.
+🎨 Strong focus on clean UI, intuitive design and seamless user experience.
 
-⚡ I enjoy transforming ideas into beautiful, functional, and scalable websites.
+⚡ Constantly exploring new technologies and improving my development skills.
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,wordpress"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-🌐 Personal Portfolio Website
+🌐 Personal Portfolio
 
 💍 Jewellery Shop Website
 
@@ -48,16 +48,20 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shamuiltikki&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamuiltikki&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=shamuiltikki&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -65,25 +69,39 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shamuiltikki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shamuiltikki&theme=tokyonight&no-bg=true&no-frame=true"/>
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email: your-shamuiltikki@gmail.com
+<p align="center">
 
-💼 LinkedIn: https://linkedin.com/in/shamuiltikki
+<a href="https://github.com/shamuiltikki">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-🌍 Portfolio: Coming Soon
+<a href="https://linkedin.com/in/shamuiltikki">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shamuiltikki@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## 💙 Thanks for visiting my profile!
 
-*"Crafting clean code, modern interfaces, and meaningful digital experiences."*
+### *"Great websites are built with clean code, creativity, and attention to detail."*
+
+⭐ If you like my work, consider following my journey.
 
 </div>
